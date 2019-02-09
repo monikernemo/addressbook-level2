@@ -111,6 +111,12 @@ Deletes the 2nd person in the address book.
 `delete 1` +
 Deletes the 1st person in the results of the `find` command.
 
+== Sorting contacts by their name: `sort`
+
+Sort all persons in address book by their name in lexicographical order.
+
+Format: `sort`
+
 == View non-private details of a person : `view`
 
 Displays the non-private details of the specified person. +
